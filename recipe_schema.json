@@ -1,0 +1,23 @@
+{
+	"id": "",
+	"name": "",
+	"prepTime": "",
+	"cookTime": "",
+	"yield": "",
+	"storageContainer": "",
+	"ingredients": [
+		{
+			"name": "",
+			"qty": "",
+			"unit": ""
+		}
+	],
+	"preparation": [
+		"",
+		""
+	],
+	"attributes": [
+		"",
+		""
+	]
+}
